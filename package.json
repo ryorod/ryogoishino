@@ -1,5 +1,5 @@
 {
-  "name": "ryogoishino",
+  "name": "profile",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,16 +8,26 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@jeremyhamm/vue-slider": "^0.2.0",
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11",
+    "vue-burger-menu": "^2.0.5",
+    "vue-particles": "^1.0.9",
+    "vue-smoothscroll": "^0.2.0",
+    "vue-typer": "^1.2.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "babel-eslint": "^10.1.0",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "normalize.css": "^8.0.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
@@ -36,7 +46,6 @@
   },
   "browserslist": [
     "> 1%",
-    "last 2 versions",
-    "not dead"
+    "last 2 versions"
   ]
 }
