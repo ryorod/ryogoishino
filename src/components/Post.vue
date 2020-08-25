@@ -37,8 +37,7 @@
     .my-posts{
         margin-right: 10px;
         margin-bottom: 10px;
-        width: 395px;
-        height: 237px;
+        width: 95%;
     }
 
 }
