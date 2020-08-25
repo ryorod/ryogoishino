@@ -36,14 +36,16 @@
 
 @media screen and (max-width: 768px){
   .works{
-      padding-left: 0;
+      padding-left: 1%;
+      padding-right: 1%;
       display: block;
   }
 
   .works-img{
       margin-right: 10px;
       margin-bottom: 10px;
-      width: 100vw;
+      width: 95%;
+      height: auto;
   }
 
 }
