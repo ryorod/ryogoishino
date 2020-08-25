@@ -29,15 +29,14 @@
 
 @media screen and (max-width: 768px){
     .post{
-        padding-left: 1px;
-        padding-right: 1px;
+        padding-left: 0;
         display: block;
     }
 
     .my-posts{
         margin-right: 10px;
         margin-bottom: 10px;
-        width: 95%;
+        width: 100vw;
     }
 
 }
