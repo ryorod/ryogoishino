@@ -77,6 +77,7 @@ a:hover{
 	.my-photo{
     width: 90%;
     height: auto;
+    display: block;
   }
 }
 </style>
