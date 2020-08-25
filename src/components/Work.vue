@@ -44,8 +44,8 @@
   .works-img{
       margin-right: 10px;
       margin-bottom: 10px;
-      width: 400px;
-      height: 240px;
+      width: 395px;
+      height: 237px;
   }
 
 }
