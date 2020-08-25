@@ -97,7 +97,6 @@ export default {
   font-family:'Raleway', 'Oxygen', Helvetica, sans-serif;
   color: whitesmoke;
   background-color: #00070e;
-  box-sizing: border-box;
 }
 
 #top{
