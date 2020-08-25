@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <p class="footer-title">&copy;2020 Ryogo_Ishino</p>
+    <p class="footer-title">&copy;2020 石野稜悟</p>
   </div>
 </template>
 

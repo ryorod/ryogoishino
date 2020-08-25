@@ -40,9 +40,14 @@
       padding-right: 1%;
       display: block;
   }
+
+  .works-img{
+      margin-right: 10px;
+      margin-bottom: 10px;
+      width: 400px;
+      height: 240px;
+  }
+
 }
 
-@media screen and (max-width: 550px){
-  
-}
 </style>

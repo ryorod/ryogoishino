@@ -28,7 +28,19 @@
 
 
 @media screen and (max-width: 768px){
-    
+    .post{
+        padding-left: 1px;
+        padding-right: 1px;
+        display: block;
+    }
+
+    .my-posts{
+        margin-right: 10px;
+        margin-bottom: 10px;
+        width: 400px;
+        height: 240px;
+    }
+
 }
 </style>
 

@@ -1,10 +1,8 @@
 <template>
     <div>
         <h1 class="content-title">Contact</h1>
-        <div class="sam">
-            <div class="link">
-                <a href="mailto:t18063ri@sfc.keio.ac.jp" class="link-icon"><font-awesome-icon icon="envelope" class="web-icon mail"/></a>
-            </div>
+        <div class="link">
+            <a href="mailto:t18063ri@sfc.keio.ac.jp" class="link-icon"><font-awesome-icon icon="envelope" class="web-icon mail"/></a>
         </div>
     </div>
 </template>
@@ -36,21 +34,21 @@
 
 
 .mail{
-    color: #DD5144;
+    color: #00070e;
 }
 .mail:hover{
-    background-color: #DD5144;
+    background-color: #00070e;
 }
 
 
 
 @media screen and (max-width: 768px){
     .web-icon{
-        color:white;
+        color: #00070e;
     }
 
     .mail{
-        background-color: #DD5144;
+        background-color: white;
     }
 }
 </style>

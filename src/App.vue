@@ -152,7 +152,7 @@ export default {
 
 .top-text{
   color: whitesmoke;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 
@@ -173,13 +173,13 @@ export default {
 
 @media screen and (max-width: 1200px) {
   .top-text{
-    font-size: 35px;
+    font-size: 50px;
   }
 }
 
 @media screen and (max-width: 768px){
   .top-text{
-    font-size: 25px;
+    font-size: 35px;
   }
   #header{
     display: none;
@@ -209,7 +209,7 @@ export default {
 
 @media screen and (max-width: 450px) {
   .top-text{
-    font-size: 11px;
+    font-size: 15px;
   }
 }
 

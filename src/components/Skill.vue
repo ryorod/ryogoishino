@@ -4,17 +4,13 @@
         <div>
             <div class="languages">
                 <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
-                    <li>Vue.js</li>
-                    <li>Node.js</li>
+                    <li>HTML / CSS</li>
+                    <li>JavaScript / Vue.js / Node.js</li>
                     <li>Python</li>
                     <li>openFrameworks</li>
                     <li>Cycling '74 Max</li>
                     <li>Ableton Live</li>
-                    <li>Arduino</li>
-                    <li>Raspberry Pi</li>
+                    <li>Arduino / Raspberry Pi</li>
                     <li>GitHub</li>
                 </ul>
             </div>
