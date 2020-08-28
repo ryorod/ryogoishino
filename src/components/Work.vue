@@ -6,13 +6,21 @@
           <a href="https://medium.com/computational-creativity-lab-at-keio-sfc/cc-lab-20%E6%98%A5-the-dawn-of-x-magic-an-audiovisual-instrument-for-magical-performances-8bc7ae5b481e" target="_blank">
             <img class="works-img" src="../assets/work/x-magic.png" alt="">
           </a>
-          <img class="works-img" src="../assets/work/crossfader.png" alt="">
-          <img class="works-img" src="../assets/work/lyrics-generator.png" alt="">
+          <a href="https://github.com/ryorod/closest-image-crossfader" target="_blank">
+            <img class="works-img" src="../assets/work/crossfader.png" alt="">
+          </a>
+          <a href="https://github.com/ryorod/lyrics-generator" target="_blank">
+            <img class="works-img" src="../assets/work/lyrics-generator.png" alt="">
+          </a>
           <a href="http://web.sfc.keio.ac.jp/~t18063ri/info2/final/DRUM_PAD_Mk3_3x3.html" target="_blank">
             <img class="works-img" src="../assets/work/drum-pad.png" alt="">
           </a>
-          <img class="works-img" src="../assets/work/somnio.png" alt="">
-          <img class="works-img" src="../assets/work/portfolio.png" alt="">
+          <a href="https://www.dropbox.com/s/02yapu4rozh932t/DEMO_MOVIE.mp4?dl=0" target="_blank">
+            <img class="works-img" src="../assets/work/somnio.png" alt="">
+          </a>
+          <a href="https://ryogoishino.netlify.app/">
+            <img class="works-img" src="../assets/work/portfolio.png" alt="">
+          </a>
         </div>
     </div>
 </template>
