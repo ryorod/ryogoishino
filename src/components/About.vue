@@ -75,6 +75,7 @@ a:hover{
 
 @media screen and (max-width: 768px){
 	.my-photo{
+    margin-bottom: 10px;
     width: 90%;
     height: auto;
     display: block;
