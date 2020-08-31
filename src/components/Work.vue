@@ -116,7 +116,7 @@
   .caption{
     font-size: 150%;
     text-align: center;
-    padding-top: 45%;
+    padding-top: 25%;
     color: whitesmoke;
   }
 
