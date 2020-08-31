@@ -113,6 +113,13 @@
       position: relative;
   }
 
+  .caption{
+    font-size: 150%;
+    text-align: center;
+    padding-top: 45%;
+    color: whitesmoke;
+  }
+
 }
 
 </style>
