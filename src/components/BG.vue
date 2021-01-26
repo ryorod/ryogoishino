@@ -1,0 +1,4 @@
+<template>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js"></script>
+    
+</template>

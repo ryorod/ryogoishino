@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header id="header"></Header>
+    <BG id="bg"></BG>
     <div class="res"><h1 class="res-title">Ryogo Ishino</h1></div>
     <div class="nav-res">
         <a href="#" class="link-content" @click="clickSmoothScroll('#app')">
@@ -58,6 +59,7 @@ import Skill from './components/Skill.vue'
 import Work from './components/Work.vue'
 import Post from './components/Post.vue'
 import Contact from './components/Contact.vue'
+import BG from './components/BG.vue'
 
 
 
@@ -72,7 +74,8 @@ export default {
     Skill,
     Work,
     Post,
-    Contact
+    Contact,
+    BG
   },
   methods:{
     clickSmoothScroll (x) {
