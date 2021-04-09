@@ -31,7 +31,7 @@
 
     <div id="top">
       <div id="main">
-      <vue-typer :text="['Welcome.']" class="top-text" :repeat='0'
+      <vue-typer :text="['Welcome. \r\n\r\nMAJOR UPGRADE \r\nCOMING SOON']" class="top-text" :repeat='0'
       :preTypeDelay="1000" :typeDelay="120" :preEraseDelay="5000" :eraseDelay="2000"></vue-typer>
     </div>
     
@@ -153,6 +153,7 @@ export default {
 .top-text{
   color: whitesmoke;
   font-size: 70px;
+  white-space: pre;
 }
 
 
